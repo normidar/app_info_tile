@@ -22,6 +22,9 @@ dev_dependencies:
 environment:
   flutter: '>=1.17.0'
   sdk: ^3.0.0
+flutter:
+  assets:
+    - assets/localizations/
 homepage: https://github.com/normidar/app_info_tile
 name: app_info_tile
 topics:
