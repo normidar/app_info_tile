@@ -20,7 +20,7 @@ A Flutter package that provides a simple and elegant way to display app informat
 ## Supported Languages
 
 - 🇺🇸 English (en-US)
-- 🇯🇵 Japanese (ja-JP) 
+- 🇯🇵 Japanese (ja-JP)
 - 🇪🇸 Spanish (es-ES)
 - 🇰🇷 Korean (ko-KR)
 - 🇵🇹 Portuguese (pt-PT)
