@@ -5,7 +5,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.6.1
-  package_info_plus: ^8.0.0
+  package_info_plus: ^9.0.0
   riverpod_annotation: ^2.6.1
   riverpod_helper: ^0.0.3
 description: A Flutter package template.
@@ -26,6 +26,7 @@ flutter:
   assets:
     - assets/localizations/
 homepage: https://github.com/normidar/app_info_tile
+repository: https://github.com/normidar/app_info_tile
 name: app_info_tile
 topics:
   - app-info
@@ -33,4 +34,4 @@ topics:
   - package-info
   - app
   - easy-localization
-version: 0.0.2
+version: 0.0.3
