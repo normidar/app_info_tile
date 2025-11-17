@@ -29,7 +29,6 @@ class AppInfoTile extends ConsumerWidget {
           error: error,
           stackTrace: stackTrace,
         ),
-      _ => const SizedBox.shrink(),
     };
   }
 
